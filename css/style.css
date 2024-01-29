@@ -1,0 +1,105 @@
+.navbar-image{
+    height: 80px;
+    width: 100px;
+}
+
+.poster{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.h{
+    color: violet;
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.p{
+    color: #ffffff;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.block{
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.h{
+    font-family: "roboto";
+}
+
+.list {
+    list-style-type: disc;
+    color: #3ee0b8;
+  }
+  
+.theme-list {
+    list-style-type: square;
+    color: #ffffff;
+  }
+
+.icon{
+    height: 20px;
+    width: 20px;
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+}
+
+
+.faculties-h{
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: 200;
+    padding: 8px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.faculties-h2{
+    font-family: "roboto";
+    font-size: 24px;
+    font-weight: 200;
+    text-align: center;
+    color: aliceblue;
+}
+
+.faculties-h3{
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+    color: aliceblue;
+}
+
+.faculties-p{
+    font-family: "roboto";
+    font-size: 18px;
+    font-weight: 200;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.button{
+    background-image: linear-gradient(#3ee0b8, rgb(54, 155, 244));
+    height: 50px;
+    width: 200px;
+    color: rgb(236, 227, 227);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.image-theme{
+    width: 400px;
+    height: 400px;
+}
+
+.theme-h{
+    color: #ffffff;
+}

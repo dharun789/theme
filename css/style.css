@@ -46,6 +46,7 @@
 .image{
     height: 200px;
     width: 200px;
+    box-shadow: 10px 10px 10px #f57171;
 }
 
 
@@ -87,6 +88,7 @@
 .image-theme{
     width: 500px;
     height: 400px;
+    box-shadow: 10px 10px 10px #f57171;
 }
 
 .theme-h{
@@ -107,6 +109,7 @@
 
 .prize-image{
     height: 400px;
+    box-shadow: 10px 10px 10px #f57171;
 }
 
 .glow{
@@ -131,19 +134,175 @@
     height: 1px;
 }
 
-.cgc-image{
-    height: 400px;
-    border-radius: 50px;
+
+.navbar-image{
+    height: 80px;
+    width: 100px;
 }
 
-.partener-img-1{
-    height: 400px;
-    width: 500px;
+.poster{
+    width: 100%;
+    margin-bottom: 15px;
 }
 
-.partener-img-2{
+.h{
+    color: #000;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-shadow: 3px 3px 3px #614444;
+}
+
+.p{
+    color: #000000;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px #888888;
+}
+
+.block{
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.list {
+    list-style-type: disc;
+    color: #000000;
+  }
+  
+.theme-list {
+    list-style-type: square;
+    color: #000000;
+  }
+
+.icon{
+    height: 20px;
+    width: 20px;
+}
+
+.image{
     height: 200px;
-    width: 400px;
-    margin-top: 50px;
+    width: 200px;
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px #f57171;
+}
+
+
+.faculties-h{
+    font-family: "sans-serif";
+    font-size: 28px;
+    font-weight: 200;
+    padding: 8px;
+    text-align: center;
+    color: #000000;
+    text-shadow: 2px 2px 2px #bbb2b2;
+}
+
+.faculties-h2{
+    font-family: "sans-serif";
+    font-size: 24px;
+    font-weight: 200;
+    text-align: center;
+    color: #000000;
+    text-shadow: 2px 2px 2px #bbb2b2;
+}
+
+.faculties-h3{
+    font-family: "sans-serif";
+    font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+    color: #000000;
+    text-shadow: 2px 2px 2px #bbb2b2;
+}
+
+.faculties-p{
+    font-family: "sans-serif";
+    font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+    color: #000;
+    text-shadow: 1px 1px 1px #bbb2b2;
+}
+
+.image-theme{
+    width: 500px;
+    height: 400px;
+    box-shadow: 10px 10px 10px #f57171;
+}
+
+.theme-h{
+    color: #000000;
+}
+
+
+.table{
+    border-width: 1px;
+    border-color: #000000;
+    padding: 10px;
+}
+
+.contactus-image{
+    height: 48px;
+    margin-right: 15px;
+}
+
+.prize-image{
+    height: 400px;
+    box-shadow: 10px 10px 10px #f57171;
+}
+
+.glow{
+    font-size: 50px;
+    color: #000;
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate; 
+}
+
+.footer{
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+}
+
+.h-line{
+    background-color: #000;
+    height: 1px;
+}
+
+
+.sponser-1{
+    border-radius: 200px;
+height: 200px;
+margin: 20px;
+margin-left: 300px;
+box-shadow: 10px 10px 10px #f57171
+}
+
+.sponser-3{
+border-radius: 200px;
+height: 200px;
+margin: 40px;
+box-shadow: 10px 10px 10px #f57171
+}
+
+.sponser-2{
+border-radius: 200px;
+height: 200px;
+margin: 35px;
+box-shadow: 10px 10px 10px #f57171
+}
+
+
+.sponser{
+border-radius: 200px;
+height: 200px;
+margin: 20px;
+box-shadow: 10px 10px 10px #f57171
 }
 
